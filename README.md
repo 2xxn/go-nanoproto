@@ -2,6 +2,8 @@
 
 **nanoproto** is a Golang library designed to save and read protocol buffers (and other byte data) on the NANO ($XNO) cryptocurrency network. It leverages NANO's feeless and fast transactions to enable decentralized data storage and retrieval.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/nextu1337/go-nanoproto.svg)](https://pkg.go.dev/github.com/nextu1337/go-nanoproto)
+
 ## Features
 - Save and retrieve byte data (including protocol buffers) on the NANO network.
 - Simple integration with NANO RPC nodes.
