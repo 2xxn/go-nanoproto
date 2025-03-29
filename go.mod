@@ -1,4 +1,4 @@
-module github.com/nextu1337/go-nanoproto
+module github.com/2xxn/go-nanoproto
 
 go 1.23.0
 
